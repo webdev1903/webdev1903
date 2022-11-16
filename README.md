@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUKxFwTUM-4Z3ip4vbXpp8KxooGYbZXa75g&usqp=CAU)
+
 <h1 align="center">Hi 👋, I'm Prakash Vanture</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="MERN" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sevGcqsIQrdUOmRqXmgBxN3Nd2pDcHnjA&usqp=CAU"/>

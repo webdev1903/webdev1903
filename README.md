@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Prakash Vanture</h1>
+<a href="https://webdev1903.github.io/prakash-vanture.portfolio/" target="_blank"><img src="https://user-images.githubusercontent.com/76178272/212535722-8f1566a9-b3e8-44c2-b55e-1225dd25c195.jpg" alt="Hello! I'm Prakash. I do web dev"/></a>
+<hr/>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="MERN" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO7sevGcqsIQrdUOmRqXmgBxN3Nd2pDcHnjA&usqp=CAU"/>
 
